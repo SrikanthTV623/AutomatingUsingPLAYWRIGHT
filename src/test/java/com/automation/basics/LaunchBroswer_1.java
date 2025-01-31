@@ -5,7 +5,7 @@ import com.microsoft.playwright.BrowserType;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Playwright;
 
-public class LaunchBroswer {
+public class LaunchBroswer_1 {
     public static void main(String[] args) {
         Playwright playwright = Playwright.create();
         Browser browser = playwright.firefox().launch(new BrowserType.LaunchOptions().setChannel("msedge").setHeadless(false));

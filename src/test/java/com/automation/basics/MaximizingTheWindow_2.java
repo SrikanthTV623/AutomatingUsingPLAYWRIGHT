@@ -2,11 +2,9 @@ package com.automation.basics;
 
 import com.microsoft.playwright.*;
 
-import java.awt.*;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 
-public class MaximizingTheWindow {
+public class MaximizingTheWindow_2 {
     public static void main(String[] args) {
 
         Playwright playwright = Playwright.create();

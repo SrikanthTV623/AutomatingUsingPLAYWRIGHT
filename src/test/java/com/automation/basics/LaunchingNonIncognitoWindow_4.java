@@ -4,7 +4,7 @@ import com.microsoft.playwright.*;
 
 import java.nio.file.Paths;
 
-public class LaunchingNonIncognitoWindow {
+public class LaunchingNonIncognitoWindow_4 {
     public static void main(String[] args) {
         Playwright playwright = Playwright.create();
         //this helps to launch the non - incognito window in chromium browser.

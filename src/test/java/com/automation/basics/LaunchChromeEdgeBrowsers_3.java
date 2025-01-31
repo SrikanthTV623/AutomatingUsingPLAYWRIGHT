@@ -5,9 +5,7 @@ import com.microsoft.playwright.BrowserType;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Playwright;
 
-import java.nio.file.Paths;
-
-public class LaunchChromeEdgeBrowsers {
+public class LaunchChromeEdgeBrowsers_3 {
     public static void main(String[] args) {
         Playwright playwright = Playwright.create();
         //to launch the chrome browser which downloaded in local system
