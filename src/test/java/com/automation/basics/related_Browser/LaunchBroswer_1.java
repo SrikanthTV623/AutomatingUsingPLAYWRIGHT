@@ -1,4 +1,4 @@
-package com.automation.basics;
+package com.automation.basics.related_Browser;
 
 import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.BrowserType;

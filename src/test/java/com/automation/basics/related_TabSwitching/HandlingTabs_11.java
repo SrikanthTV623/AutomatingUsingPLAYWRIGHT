@@ -1,4 +1,4 @@
-package com.automation.basics;
+package com.automation.basics.related_TabSwitching;
 
 import com.microsoft.playwright.*;
 

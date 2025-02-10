@@ -1,4 +1,4 @@
-package com.automation.basics;
+package com.automation.basics.related_Locators;
 
 import com.microsoft.playwright.*;
 import com.microsoft.playwright.options.SelectOption;

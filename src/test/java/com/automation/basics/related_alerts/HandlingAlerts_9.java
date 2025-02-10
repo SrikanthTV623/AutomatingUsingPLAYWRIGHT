@@ -1,4 +1,4 @@
-package com.automation.basics;
+package com.automation.basics.related_alerts;
 
 import com.microsoft.playwright.*;
 

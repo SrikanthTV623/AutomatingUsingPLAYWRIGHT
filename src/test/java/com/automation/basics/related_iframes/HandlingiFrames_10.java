@@ -1,4 +1,4 @@
-package com.automation.basics;
+package com.automation.basics.related_iframes;
 
 import com.microsoft.playwright.*;
 
